@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4a9d3df96b1494194e99a81e",
+  "owner": "ubwphwap",
+  "repo": "page-9bd71549b51cee5aa7652cee",
+  "title": "Allegro",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9bd71549b51cee5aa7652cee",
+      "a": "Allegro",
+      "b": "",
+      "entity": "Allegro",
+      "brand": "Allegro",
+      "separator": "",
+      "path": "index.html",
+      "hash": "10dbfda0d8bb137d0372f0abfa73060dae375d1f1f89bcf7833f086775624a61",
+      "content": {
+        "keyword1": "Allegro",
+        "keyword2": "",
+        "primary_entity": "Allegro",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Allegro 提供稳定的 VPN 与机场订阅服务，支持官方客户端下载、多设备加速与流媒体解锁。本页说明套餐、配置流程与使用场景。",
+          "AI_DESCRIPTION": "Allegro 提供稳定的 VPN 与机场订阅服务，支持官方客户端下载、多设备加速与流媒体解锁。本页说明套餐、配置流程与使用场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--p:#5b21b6;--pl:#7c3aed;--g:#f3f4f6;--d:#1f2937;--c:#fff;--b:#e5e7eb;--t:#111827}*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:var(--g);color:var(--t);font-size:16px;line-height:1.65}a{color:var(--p);text-decoration:none}a:hover{text-decoration:underline}header{background:var(--c);border-bottom:1px solid var(--b);padding:.8rem 1rem} .brand{font-weight:700;color:var(--p);font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:.6rem 1rem;margin-top:.45rem}.wrap{max-width:960px;margin:0 auto;padding:1rem}h1{font-size:1.75rem;color:var(--p);margin:1.4rem 0 .8rem}h2{font-size:1.35rem;color:var(--d);margin:2rem 0 .7rem;border-left:4px solid var(--p);padding-left:.55rem}h3{font-size:1.12rem;color:var(--p);margin:1.1rem 0 .4rem}.lead{color:#374151}.row{display:flex;flex-wrap:wrap;gap:1.1rem;margin:1.1rem 0;align-items:stretch}.row.alt{flex-direction:row-reverse}.col{flex:1 1 280px;background:var(--c);padding:1.15rem;border:1px solid var(--b);border-radius:8px}.num{display:inline-block;width:1.8rem;height:1.8rem;line-height:1.8rem;text-align:center;border-radius:50%;background:var(--p);color:#fff;font-weight:700;margin-right:.4rem}.plans{display:flex;flex-wrap:wrap;gap:1rem}.plan{flex:1 1 240px;background:var(--c);border:1px solid var(--b);border-radius:8px;padding:1.15rem}.plan.hot{border:2px solid var(--p);background:#faf5ff}.price{font-size:1.45rem;color:var(--p);font-weight:700}.sub{color:#4b5563;font-size:.95rem;margin:.2rem 0 .7rem}.feat{margin:.28rem 0}details{background:var(--c);border:1px solid var(--b);border-radius:6px;margin:.55rem 0;padding:.65rem .9rem}summary{font-weight:650;color:var(--d)}.box{background:var(--c);border:1px solid var(--b);border-radius:8px;padding:1rem;margin:1.2rem 0}footer{color:#4b5563;font-size:.92rem;padding:1.2rem 0 2rem}ul{margin:.4rem 0;padding-left:1.2rem}@media(max-width:640px){.row,.row.alt{flex-direction:column}h1{font-size:1.45rem}nav{font-size:.95rem}}</style><header><div class=\"wrap\"><div class=\"brand\">Allegro 官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#setup\">配置流程</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#map\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>Allegro 官方网站</h1><p class=\"lead\">Allegro 是面向跨境访问、流媒体解锁与低延迟加速的官方机场与 VPN 服务。本站提供套餐说明、配置流程、多端客户端下载入口与使用指引，方便用户从官网完成订阅与接入。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"row\"><div class=\"col\"><h3>官方身份与定位</h3><p>Allegro 官方网站发布套餐、节点策略与客户端渠道。服务同时覆盖机场订阅与 VPN 客户端，适合需要稳定出网、多设备共享与清晰配置步骤的个人与小团队。</p><p>节点池包含普通线路与 IPLC 专线能力，旗舰与团队方案强调原生流媒体解锁、游戏加速优化以及优先支持。</p></div><div class=\"col\"><h3>你将获得什么</h3><p>按月或按年订阅后，可在用户中心获取订阅链接，导入官方客户端即可选择节点连接。流量与设备数按套餐计量，年付可降低综合成本。</p><p>请始终通过本页下载客户端，避免非官方来源带来的账号与设备风险。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格与权益如下，可按流量、设备数与线路需求选择。年付在同等月费基础上提供更明确的预算。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><p class=\"feat\">每月 100GB 极速流量</p><p class=\"feat\">支持 3 台设备同时在线</p><p class=\"feat\">解锁基础流媒体</p><p class=\"feat\">普通线路节点池</p><p><a href=\"#setup\">查看配置流程</a></p></article><article class=\"plan hot\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年 · 推荐</p><p class=\"feat\">每月 300GB 极速流量</p><p class=\"feat\">支持 5 台设备同时在线</p><p class=\"feat\">全节点原生流媒体解锁</p><p class=\"feat\">IPLC 专线游戏加速优化</p><p class=\"feat\">7x24 优先工单支持</p><p><a href=\"#setup\">按流程开通</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><p class=\"feat\">每月 1000GB 极速流量</p><p class=\"feat\">支持 20 台设备同时在线</p><p class=\"feat\">VIP 专属高带宽节点</p><p class=\"feat\">支持企业定制路由</p><p class=\"feat\">专属客户经理服务</p><p><a href=\"#guide\">了解团队接入</a></p></article></div></section><section id=\"setup\"><h2>配置流程</h2><p>Allegro 将接入拆成可核对的四步，左右交错展示，便于对照完成。首次使用建议按顺序操作，不要跳过订阅导入。</p><div class=\"row\"><div class=\"col\"><h3><span class=\"num\">1</span>选择并开通套餐</h3><p>根据流量、设备数与是否需要 IPLC、原生解锁选择基础版、旗舰版或团队版。开通后在账户中确认生效周期与剩余额度。</p></div><div class=\"col\"><h3>核对权益</h3><p>基础版侧重日常访问；旗舰版适合流媒体与游戏；团队版面向多成员与定制路由。年付价格已在卡片标明。</p></div></div><div class=\"row alt\"><div class=\"col\"><h3><span class=\"num\">2</span>下载官方客户端</h3><p>进入本页<a href=\"#download\">客户端下载</a>专区，按系统获取 Windows、macOS、Android、iOS 或 Linux 版本。只使用官网提供的安装包。</p></div><div class=\"col\"><h3>安装注意</h3><p>安装完成后先不要连接未知配置。保留用户中心页面，下一步需要复制订阅地址。</p></div></div><div class=\"row\"><div class=\"col\"><h3><span class=\"num\">3</span>导入机场订阅</h3><p>在用户中心复制订阅链接，于客户端选择“从 URL 更新/导入订阅”。等待节点列表刷新，确认出现普通线路或 IPLC 分组。</p></div><div class=\"col\"><h3>常见卡点</h3><p>若列表为空，检查链接完整性、本地时间与网络。不要把订阅发给第三方工具站点。</p></div></div><div class=\"row alt\"><div class=\"col\"><h3><span class=\"num\">4</span>选择节点并连接</h3><p>按场景挑选节点：浏览与资料访问可用普通线路；影视优先原生解锁节点；对延迟敏感的游戏走 IPLC。连接后打开目标应用验证。</p></div><div class=\"col\"><h3>连接后检查</h3><p>确认设备占用未超套餐上限，观察流量消耗。异常时先更新订阅再切换节点，旗舰与团队用户可走优先工单。</p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"row\"><div class=\"col\"><h3>跨境办公与会议</h3><p>远程协作、网盘与会议工具需要稳定链路时，可固定一条延迟较低的节点，避免频繁切换导致会话中断。</p></div><div class=\"col\"><h3>流媒体与资讯</h3><p>基础版覆盖常用平台的基础解锁；旗舰版强调全节点原生解锁，减少因线路质量导致的清晰度下降或地区限制。</p></div></div><div class=\"row alt\"><div class=\"col\"><h3>游戏加速</h3><p>旗舰版提供 IPLC 专线游戏加速优化，适合对丢包和抖动更敏感的对战与国际服登录。请在客户端中选择游戏分组节点。</p></div><div class=\"col\"><h3>学习与资料访问</h3><p>访问公开学术站点、开发文档与软件源时，保持客户端规则简洁，仅代理必要流量，有助于节省套餐额度。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><p>日常使用以“更新订阅—选择节点—验证应用”为主。多设备请在同一账户下导入相同订阅，并留意在线设备数。</p><h3>订阅与流量</h3><p>流量按自然月或订购周期累计展示。接近上限时可升级套餐或等待下一周期。团队版可将路由策略按部门拆分，减少互相抢占带宽。</p><h3>设备与系统</h3><p>电脑端建议关闭系统里冲突的旧代理。移动端首次连接可能需要授予 VPN 配置权限，这是系统机制，并非额外插件。</p></section><section id=\"download\"><h2>客户端下载</h2><p>以下为 Allegro 官方客户端入口，链接指向本页对应说明，便于在官网完成获取。请勿使用来路不明的修改版。</p><div class=\"row\"><div class=\"col\"><h3>桌面端</h3><ul><li><a href=\"#download\">Windows 官方客户端</a></li><li><a href=\"#download\">macOS 官方客户端</a></li><li><a href=\"#download\">Linux 官方客户端</a></li></ul></div><div class=\"col\"><h3>移动端</h3><ul><li><a href=\"#download\">Android 官方客户端</a></li><li><a href=\"#download\">iOS 官方客户端</a></li></ul><p>安装后回到配置流程第三步导入订阅。</p></div></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Allegro 是什么？和普通加速器有何区别？</summary><p>Allegro 是同时提供机场订阅与多平台 VPN 客户端的官方服务。区别在于套餐分层清晰，配置流程按四步拆解，并在旗舰与团队方案中提供 IPLC、原生解锁与优先支持。</p></details><details><summary>如何从官网完成第一次连接？</summary><p>先开通套餐，再下载对应系统的官方客户端，复制用户中心订阅链接并导入，最后按场景选择节点连接。完整顺序见本页配置流程。</p></details><details><summary>客户端应该从哪里下载？</summary><p>只通过 Allegro 官方网站的客户端下载专区获取。第三方打包、网盘或修改版可能造成订阅泄露或设备异常。</p></details><details><summary>三个套餐如何选择？</summary><p>轻度浏览选基础版（100GB / 3 设备）。需要流媒体原生解锁与游戏加速选旗舰版（300GB / 5 设备）。多人共用、定制路由选团队版（1000GB / 20 设备）。年付价格已在套餐中列出。</p></details><details><summary>连接失败或速度不稳定怎么办？</summary><p>先更新订阅，再更换节点或协议，确认系统时间准确且没有其他代理占用。检查是否超出设备数。旗舰与团队用户可使用优先工单。</p></details><details><summary>是否支持多设备同时在线？</summary><p>支持。基础版 3 台、旗舰版 5 台、团队版 20 台。超出时请下线空闲设备或升级套餐，无需重复购买多个订阅。</p></details></section><section class=\"box\" id=\"ads\"><h2>广告与合作</h2><p>Allegro 官网可展示与网络工具、内容平台相关的合作信息。广告内容与套餐销售独立，不替代官方下载与订阅入口。洽谈请通过页脚联系说明用途与周期。</p></section><section class=\"box\" id=\"friends\"><h2>友情链接</h2><p><a href=\"#\">国际网络使用须知</a> · <a href=\"#\">流媒体区域说明</a> · <a href=\"#\">客户端安全安装建议</a> · <a href=\"#intro\">返回品牌简介</a></p></section><section class=\"box\" id=\"map\"><h2>网站地图</h2><p>本页为 Allegro 官方单页站点，结构如下：<a href=\"#intro\">品牌简介</a>、<a href=\"#plans\">套餐方案</a>、<a href=\"#setup\">配置流程</a>、<a href=\"#scenes\">使用场景</a>、<a href=\"#guide\">操作说明</a>、<a href=\"#download\">客户端下载</a>、<a href=\"#faq\">常见问题</a>、<a href=\"#ads\">广告合作</a>、<a href=\"#friends\">友情链接</a>。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"wrap\"><p>Allegro 官方网站 · 网络加速、机场订阅与客户端下载信息发布页。</p><p>联系合作与工单说明请通过账户中心提交。请仅使用本站公布的套餐与下载入口。</p></footer>",
+          "hash": "0bcca71133e895a6c1a035da765face8e6d1b6808c0031d1c1afa14079a00bad",
+          "seo": {
+            "title": "Allegro官网 | VPN机场订阅与网络加速客户端下载",
+            "keywords": "Allegro,Allegro VPN,Allegro机场,Allegro官网,网络加速器,梯子,客户端下载,机场订阅,加速器下载",
+            "description": "Allegro 提供稳定的 VPN 与机场订阅服务，支持官方客户端下载、多设备加速与流媒体解锁。本页说明套餐、配置流程与使用场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cofowhs.cn",
+    "host": "p-5092a9f6e2.cofowhs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cofowhs.cn",
+      "url": "https://cofowhs.cn/",
+      "label": "飞毯加速(TanZ)",
+      "apex": "cofowhs.cn",
+      "kind": null,
+      "identity": "wan9900/page-fc1e9ac77b49756854e5de0f"
+    },
+    {
+      "host": "huabenqiye.cn",
+      "url": "https://huabenqiye.cn/",
+      "label": "Allegro",
+      "apex": "huabenqiye.cn",
+      "kind": null,
+      "identity": "fpxmgqfqx/page-817279057d65db1cfce40288"
+    },
+    {
+      "host": "icqul.cn",
+      "url": "https://icqul.cn/",
+      "label": "Allegro",
+      "apex": "icqul.cn",
+      "kind": null,
+      "identity": "dhhhtpkfd/page-92231678b7854b523ca4b585"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6e11b2c88fdca3915360ab196a896b4875ada12b82f32b6393f75b20da0bdbc8",
+    "sitemap.xml": "a367542fb7e58b5513fa472150c6e3cb526c1cdfbbfdef944446b76a8bbeaf7a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb655e3e2cddd8bba4fd36d0eeee482d6f3dcdab728f42e864d4659351061eb0",
+    "robots.txt": "f5853fbcb06915339502704f8f2f26a46c1b8a7435e4e7d6fb975a6406afa8e3",
+    "376afb21f5218c41550a3893a4ee1ea2.txt": "42269bbd1a846f4f7eeeae1850504008a52a5efa1de814045ea08f962d3147ca"
+  },
+  "revision": "cc2ccfae4be46e2fd0cbe93b1f0f2cf468c92e6a5afc9f29f19c701aeb2dbd75"
+}
